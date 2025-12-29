@@ -1,0 +1,10 @@
+airflow/dags/
+airflow/data/
+airflow/plugins/
+airflow/logs/
+airflow/.venv
+airflow/pyproject.toml
+airflow/uv.lock
+spark/scripts/
+kafka/scripts/
+db/sql/
